@@ -1,0 +1,2 @@
+# YoutubeShortsBlocker
+Blockiert Youtube Shorts
